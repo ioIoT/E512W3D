@@ -1,12 +1,13 @@
 ## 3d-software-renderer m5stickc/console-app/windows-app/ncurses  
-- 複数のウィンドウ  
-- ワイヤーフレーム  
-- ポリゴン表示、テクスチャ  
-- 法線カラー表示  
+
+Multiple windows
+Wire frame
+Polygon display, texture
+Normal color display
 - Directional Light  
 - Ambient  
-- テクスチャなしなら8000ポリゴンくらいまで  
-- コンソール、ウィンドウアプリ化できる  
+-Up to about 8000 polygons without texture
+--Can be converted into a console or window application
 
 ![Gif](./img/anim.gif)  
 ![Gif](./img/animc.gif)  
